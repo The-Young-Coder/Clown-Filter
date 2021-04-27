@@ -1,0 +1,13 @@
+.heading{
+    font-size: 28px;
+}
+    
+body{
+    background-image:url("background.jpg");
+}
+
+canvas{
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+}
